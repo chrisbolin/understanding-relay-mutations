@@ -8,7 +8,7 @@ This is a walkthrough of Relay mutations using the Todo MVC example.
 
 To get the most out of this walkthrough, you'll probably want to have a good grasp of a few topics...
 
-* **GraphQL.** [Learn GraphQL](https://learngraphql.com/), the [GraphQL homepage](http://graphql.org/), and [Thinking in GraphQL]([Thinking in GraphQL](https://facebook.github.io/relay/docs/thinking-in-graphql.html) are great resources.
+* **GraphQL.** [Learn GraphQL](https://learngraphql.com/), the [GraphQL homepage](http://graphql.org/), and [Thinking in GraphQL](https://facebook.github.io/relay/docs/thinking-in-graphql.html) are great resources.
 * **Relay.** Read through [Thinking in Relay](https://facebook.github.io/relay/docs/thinking-in-relay.html) and complete the [Relay Tutorial](https://facebook.github.io/relay/docs/tutorial.html).
 * **React.** Go build a simple React app. Read [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html).
 * **NodeJS.** [Install it](https://nodejs.org/en/) and maybe do a [quick tutorial](http://blog.modulus.io/absolute-beginners-guide-to-nodejs).
