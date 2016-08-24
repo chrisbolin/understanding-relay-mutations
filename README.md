@@ -1,4 +1,4 @@
-👷 _work in progress_
+_incomplete, but you'll forgive me_ 🌈
 
 # Understanding Relay Mutations
 
